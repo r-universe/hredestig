@@ -9,8 +9,3 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "pcaMethods"]
-	path = pcaMethods
-	url = https://github.com/hredestig/pcamethods
-	shallow = true
-	registered = true
