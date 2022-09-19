@@ -2,5 +2,8 @@
   {
     "package": "crmn",
     "oncran": true
+  },
+  {
+    "package": "pcaMethods"
   }
 ]
