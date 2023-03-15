@@ -1,9 +1,9 @@
 [
   {
-    "package": "crmn",
-    "oncran": true
+    "package": "pcaMethods"
   },
   {
-    "package": "pcaMethods"
+    "package": "crmn",
+    "oncran": true
   }
 ]
