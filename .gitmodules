@@ -6,6 +6,3 @@
 	path = crmn
 	url = https://github.com/hredestig/crmn
 	subdir = pkg
-[submodule "pcaMethods"]
-	path = pcaMethods
-	url = https://github.com/hredestig/pcamethods
